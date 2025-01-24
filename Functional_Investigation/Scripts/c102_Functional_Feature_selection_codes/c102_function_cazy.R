@@ -1,8 +1,3 @@
-# Abhishek Goel
-# 16-12-2023
-
-# code name- c102_function_cazy_abhishek.R
-
 # -------------------------------------------------------------------------------------------------------------------
 library(randomForest)
 library(vegan)
