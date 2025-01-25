@@ -1,12 +1,10 @@
-
-setwd("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output")
 library(xlsx)
 library(dplyr)
 
 ###########################################################################
 
-load("G:/My Drive/HACK paper/CellReports_revision/Functional_Analysis_Overall_Output/union_features_func_prof_all_genomes.RData")
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\c87_hackAssociated_functinonal_Ids.RData")
+load("union_features_func_prof_all_genomes.RData")
+load("c87_hackAssociated_functinonal_Ids.RData")
 
 ##### CONSERVATION PROFILE GENERATION HACKS ######
 
