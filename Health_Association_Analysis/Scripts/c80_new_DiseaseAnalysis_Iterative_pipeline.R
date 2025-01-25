@@ -19,7 +19,7 @@ load("NewGutAssociatedSpecies.RData")
 
 ## Load the summarised information
 c70_new_DiseaseAnalysis_CohortInfo_data <- new.env()
-load("C:/Users/ompra/Downloads/Cell_reports_revision/disease_analysis/new_files/DiseaseAnalysis_combinedCohort/c70_new_DiseaseAnalysis_CohortInfo_data.RData",envir = c70_new_DiseaseAnalysis_CohortInfo_data)
+load("c70_new_DiseaseAnalysis_CohortInfo_data.RData",envir = c70_new_DiseaseAnalysis_CohortInfo_data)
 attach(c70_new_DiseaseAnalysis_CohortInfo_data)
 DiseaseAnalysis_cohortInfo <- DiseaseAnalysis_cohortInfo
 detach(c70_new_DiseaseAnalysis_CohortInfo_data)
@@ -91,7 +91,7 @@ colnames(Overall_DiseaseAnalysis_HealthScore) <- "health_score"
 
 ################################################################################# Save the workspace and individual Health Score
 
-save(Overall_DiseaseAnalysis_HealthScore, file = "G:\\My Drive\\HACK paper\\CellReports_revision\\Final_Submission\\Final_v3\\Scripts_GitHub\\Section3_DiseaseAssociationInvestigation\\DATA\\Overall_DiseaseAnalysis_HealthScore.RData")
+save(Overall_DiseaseAnalysis_HealthScore, file = "Overall_DiseaseAnalysis_HealthScore.RData")
 
-save.image("G:\\My Drive\\HACK paper\\CellReports_revision\\Final_Submission\\Final_v3\\Scripts_GitHub\\Section3_DiseaseAssociationInvestigation\\DATA\\c80_new_DiseaseAnalysis_Iterative_pipeline_workspace.RData")
+save.image("c80_new_DiseaseAnalysis_Iterative_pipeline_workspace.RData")
 
