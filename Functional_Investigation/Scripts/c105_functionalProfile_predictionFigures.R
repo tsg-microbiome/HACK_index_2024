@@ -1,8 +1,8 @@
 
 library(ggplot2)
 
-load("G:/My Drive/HACK paper/CellReports_revision/Final_Submission/Final_v3/Scripts_GitHub/Section10_FunctionalInvestigation/DATA/FunctionalClassificationAnalysis_stage2_part1.RData")
-load("G:/My Drive/HACK paper/CellReports_revision/Final_Submission/Final_v3/Scripts_GitHub/Section10_FunctionalInvestigation/DATA/FunctionalClassificationAnalysis_stage2_part2.RData")
+load("FunctionalClassificationAnalysis_stage2_part1.RData")
+load("FunctionalClassificationAnalysis_stage2_part2.RData")
 
 outOfBox_variables= ls()[grepl("df_rf",ls())]
 
