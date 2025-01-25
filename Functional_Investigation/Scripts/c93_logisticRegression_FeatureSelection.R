@@ -4,9 +4,9 @@
 
 library(dplyr)
 
-load("G:/My Drive/HACK paper/CellReports_revision/Final_Submission/Final_v3/Scripts_GitHub/Section10_FunctionalInvestigation/DATA/FunctionalClassificationAnalysis_stage2_part1.RData")
-load("G:/My Drive/HACK paper/CellReports_revision/Final_Submission/Final_v3/Scripts_GitHub/Section10_FunctionalInvestigation/DATA/FunctionalClassificationAnalysis_stage2_part2.RData")
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\SpeciesScores_FunctionalAnalysis.RData")
+load("FunctionalClassificationAnalysis_stage2_part1.RData")
+load("FunctionalClassificationAnalysis_stage2_part2.RData")
+load("SpeciesScores_FunctionalAnalysis.RData")
 
 length(intersect(rownames(SpeciesScores), rownames(df_select_features)))
 
