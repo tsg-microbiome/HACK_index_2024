@@ -1,8 +1,9 @@
 
 library(dplyr)
 
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\c93_logisticRegression_FeatureSelection.RData")
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\FunctionalClassificationAnalysis_stage2.RData")
+load("c93_logisticRegression_FeatureSelection.RData")
+load("FunctionalClassificationAnalysis_stage2_part1.RData")
+load("FunctionalClassificationAnalysis_stage2_part2.RData")
 
 mannWhitney_batch = function(x,y)
 {
