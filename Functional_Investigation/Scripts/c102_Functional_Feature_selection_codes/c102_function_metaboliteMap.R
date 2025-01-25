@@ -1,22 +1,13 @@
-# Abhishek Goel
-# 16-12-2023
-# code name- function_metaboliteMap_abhishek.R
-
 # functional profiling for MetaboliteMap
-
 
 library(randomForest)
 library(vegan)
 library(ade4)
-# library(randomForestExplainer)
 library(ggplot2)
 library(ggrepel)
 
-dir_name <- "/storage32Tb/sourav/HACK_REVISION/"
-
-load(paste0(dir_name,"SpeciesScores_FunctionalAnalysis.RData"))
-
-load(paste0(dir_name,"combined_metabolite_map.RData"))
+load("SpeciesScores_FunctionalAnalysis.RData")
+load("combined_metabolite_map.RData")
 
 bootstrap_rf = function(data,metadata,metadata_column,iter,size)
 {
