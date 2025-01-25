@@ -12,11 +12,11 @@ for(outputs in allOutputs)
 }
 
 
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\modified_functional_prof_core.RData")
+load("modified_functional_prof_core.RData")
 
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\SpeciesScores_FunctionalAnalysis.RData")
+load("SpeciesScores_FunctionalAnalysis.RData")
 
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\combined_metabolite_map.RData")
+load("combined_metabolite_map.RData")
 
 #selecting the top features for each function using random forest function feature importance.
 #-------------------------------------------------------------------------------------------------------------------------------------
