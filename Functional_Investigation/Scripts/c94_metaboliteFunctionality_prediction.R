@@ -1,4 +1,3 @@
-
 # the code will check if the hack score can predict the metabolity activity using the logisitic regression.
 
 library(ggplot2)
@@ -6,9 +5,9 @@ library(ggrepel)
 library(randomForest)
 library(dplyr)
 
-load("G:\\.shortcut-targets-by-id\\10CrWMzRIxOxOGnxDf8HqtvOe1IuTWZkY\\HACK_project\\control_runs\\input_files\\FunctionalProfiling\\combined_metabolite_map.RData")
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\c102_funtionalProfileOutput\\MetaboliteMap_Output.RData")
-load("G:\\My Drive\\HACK paper\\CellReports_revision\\Functional_Analysis_Overall_Output\\SpeciesScores_FunctionalAnalysis.RData")
+load("FunctionalProfiling\\combined_metabolite_map.RData")
+load("MetaboliteMap_Output.RData")
+load("SpeciesScores_FunctionalAnalysis.RData")
 
 
 # selecting the top features from the rf_metabolite model
