@@ -1,21 +1,12 @@
-# Abhishek Goel
-# 16-12-2023
-
-# code name- c102_function_kegg_module_abhishek.R
-
 # -------------------------------------------------------------------------------------------------------------------
 library(randomForest)
 library(vegan)
 library(ade4)
-# library(randomForestExplainer)
 library(ggplot2)
 library(ggrepel)
 
-dir_name <- "/storage32Tb/sourav/HACK_REVISION/"
-
-load(paste0(dir_name,"SpeciesScores_FunctionalAnalysis.RData"))
-
-load(paste0(dir_name,"modified_functional_prof_core.RData"))
+load("SpeciesScores_FunctionalAnalysis.RData")
+load("modified_functional_prof_core.RData")
 
 # -------------------------------------------------------------------------------------------------------------------
 bootstrap_rf = function(data,metadata,metadata_column,iter,size)
