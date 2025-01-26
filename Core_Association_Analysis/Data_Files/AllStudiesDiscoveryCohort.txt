@@ -1,0 +1,84 @@
+	Study_condition	Total_samples	Control_samples	Diseased_samples	Disease_type	Sequence_type	Cohort_type	Country
+MobegiF_2020	Control Only	100	100	0		WGS	UrbanRuralMixed	AUS
+LogMPie	Control Only	874	874	0		16s	UrbanRuralMixed	IND
+RenallN_2023	Control Only	382	382	0		WGS	UrbanRuralMixed	NZL
+ShaoY_2019	Control Only	174	174	0		WGS	IndustrializedUrban	GBR
+PasolliE_2019	Control Only	111	111	0		WGS	RuralTribal	MDG
+CosteaPI_2017	Control Only	253	253	0		WGS	IndustrializedUrban	DEU;KAZ
+Barton_et_al_2018	Control Only	84	84	0		WGS	IndustrializedUrban	IRE
+TettAJ_2019_a	Control Only	36	36	0		WGS	RuralTribal	TZA
+TettAJ_2019_b	Control Only	23	23	0		WGS	RuralTribal	GHA
+FerrettiP_2018	Control Only	22	22	0		WGS	IndustrializedUrban	ITA
+TettAJ_2019_c	Control Only	24	24	0		WGS	RuralTribal	ETH
+DhakanDB_2019	Control Only	88	88	0		WGS	UrbanRuralMixed	IND
+LifeLinesDeep_2016	Control Only	1124	1124	0		WGS	IndustrializedUrban	NLD
+YassourM_2018	Control Only	116	116	0		WGS	IndustrializedUrban	FIN
+SchirmerM_2016	Control Only	456	456	0		WGS	IndustrializedUrban	NLD
+RampelliS_2015	Control Only	22	22	0		WGS	RuralTribal	TZA
+Obregon-TitoAJ_2015	Control Only	17	17	0		WGS	RuralTribal	PER
+Odamaki	Control Only	306	306	0		16s	IndustrializedUrban	JPN
+KaurK_2020	Control Only	30	30	0		WGS	RuralTribal	IND
+WampachL_2018	Control Only	14	14	0		WGS	IndustrializedUrban	LUX
+BritoIL_2016	Control Only	154	154	0		WGS	UrbanRuralMixed	FJI
+CuestaZuluaga_et_al_2018	Control Only	441	441	0		16s	UrbanRuralMixed	COL
+ZeeviD_2015	Control Only	900	900	0		WGS	IndustrializedUrban	ISR
+Cronin_et_al_2018	Control Only	55	55	0		WGS	IndustrializedUrban	IRE
+IjazUZ_2017	Control Only	25	25	0		WGS	IndustrializedUrban	GBR
+YassourM_2016	Control Only	36	36	0		WGS	IndustrializedUrban	KOR
+LokmerA_2019	Control Only	57	57	0		WGS	RuralTribal	CMR
+AsnicarF_2021	Control Only	1096	1096	0		WGS	IndustrializedUrban	USA;GBR
+DeFilippisF_2019	Control Only	97	97	0		WGS	IndustrializedUrban	ITA
+PehrssonE_2016	Control Only	119	119	0		WGS	UrbanRuralMixed	SLV;PER
+BackhedF_2015	Control Only	99	99	0		WGS	IndustrializedUrban	SWE
+MehtaRS_2018	Control Only	928	928	0		WGS	IndustrializedUrban	USA
+HansenLBS_2018	Control Only	207	207	0		WGS	IndustrializedUrban	DNK
+LiuW_2016	Control Only	110	110	0		WGS	RuralTribal	MNG
+HMP_2012	Control Only	145	145	0		WGS	IndustrializedUrban	USA
+KeohaneDM_2020	Control Only	111	111	0		WGS	UrbanRuralMixed	IRL
+Bengtsson-PalmeJ_2015	Control Only	70	70	0		WGS	IndustrializedUrban	SWE
+SmitsSA_2017	Control Only	31	31	0		WGS	RuralTribal	TZA
+ChengpingW_2017	Disease Only	94	0	94	Arthritis_Variants_94	WGS	IndustrializedUrban	CHN
+LeeKA_2022	Disease Only	165	0	165	Cancer_Metastasis_165;IBD_GutInflammation_35	WGS	IndustrializedUrban	ESP;GBR;NLD
+HMP_2019_ibdmdb	Disease Only	643	0	643	IBD_GutInflammation_643	WGS	IndustrializedUrban	USA
+VilaAV_2018	Disease Only	355	0	355	IBD_GutInflammation_355	WGS	IndustrializedUrban	NLD
+FrankelAE_2017	Disease Only	39	0	39	Cancer_Metastasis_97	WGS	IndustrializedUrban	USA
+VincentC_2016	Disease Only	47	0	47	Resp_Infection_19;other_4;CDI_33;Skin_Disorders_8;Arthritis_Variants_2	WGS	IndustrializedUrban	CAN
+LomanNJ_2013	Disease Only	42	0	42	Gut_Infection_42	WGS	IndustrializedUrban	DEU
+WindTT_2020	Disease Only	20	0	20	Cancer_Metastasis_40	WGS	IndustrializedUrban	NLD
+MatsonV_2018	Disease Only	39	0	39	Cancer_Metastasis_78	WGS	IndustrializedUrban	USA
+GopalakrishnanV_2018	Disease Only	25	0	25	Cancer_Metastasis_50	WGS	IndustrializedUrban	USA
+LoombaR_2017	Disease Only	86	0	86	NAFLD_FLD_77;Cirrhosis_9	WGS	IndustrializedUrban	USA
+Arivale	Mixed	1255	1106	149	other_149	16s	IndustrializedUrban	USA
+ThomasAM_2019_c	Mixed	80	40	40	CRC_40	WGS	IndustrializedUrban	JPN
+SankaranarayananK_2015	Mixed	37	18	19	T2D_19	WGS	IndustrializedUrban	USA
+ZellerG_2014	Mixed	156	61	95	CRC_53;Polyps_42	WGS	IndustrializedUrban	FRA
+WirbelJ_2018	Mixed	125	65	60	CRC_60	WGS	IndustrializedUrban	DEU
+RubelMA_2020	Mixed	153	76	77	Helminth_Infection_77	WGS	RuralTribal	CMR
+QinJ_2012	Mixed	361	192	169	T2D_169	WGS	IndustrializedUrban	CHN
+Jeffery_et_al_2020	Mixed	136	58	78	IBS_78	WGS	IndustrializedUrban	IRE
+ThomasAM_2018b	Mixed	60	28	32	CRC_32	WGS	IndustrializedUrban	ITA
+LiJ_2014	Mixed	260	10	250	T2D_79;T1D_31;IBD_GutInflammation_140;other_37	WGS	IndustrializedUrban	CHN;DNK;ESP
+Ghosh_et_al_2020	Mixed	188	135	53	Unhealthy_Elderly_53	WGS	IndustrializedUrban	IRE
+NagySzakalD_2017	Mixed	100	50	50	ME_CFS_50	WGS	IndustrializedUrban	USA
+He	Mixed	7009	3553	3456	Metabolic_Syndrome_1404;Gastritis_1120;CVD_172;other_950;IBS_18;NAFLD_FLD_163;Cholecystitis_89;IBD_GutInflammation_59;T1D_59	16s	UrbanRuralMixed	CHN
+LiJ_2017	Mixed	196	41	155	Hypertension_155	WGS	IndustrializedUrban	CHN
+QinN_2014	Mixed	236	114	122	Cirrhosis_121;Hepatitis_102;other_76	WGS	IndustrializedUrban	CHN
+HMP_2019_t2d	Mixed	296	42	254	Prediabetes_239;Resp_Infection_88;T2D_11	WGS	IndustrializedUrban	USA
+ThomasAM_2018a	Mixed	80	14	66	Cancer_Metastasis_5;Polyps_27;CRC_29;Cholesterolemina_15;Hypertension_17;T2D_1	WGS	IndustrializedUrban	ITA
+MetaCardis_2020_a	Mixed	1831	234	1597	Prediabetes_318;Multiple_Sclerosis_631;T2D_792;CVD_363;Skin_Disorders_96	WGS	IndustrializedUrban	FRA;DEU;DNK
+MicroDiab_India	Mixed	435	137	298	T2D_157;Parkinsons_141	16s	UrbanRuralMixed	IND
+HanniganGD_2017	Mixed	81	28	53	CRC_27;Polyps_26	WGS	IndustrializedUrban	USA;CAN
+NielsenHB_2014	Mixed	396	248	148	IBD_GutInflammation_148	WGS	IndustrializedUrban	DNK;ESP
+BedarfJR_2017	Mixed	59	28	31	Parkinsons_31	WGS	IndustrializedUrban	DEU
+VogtmannE_2016	Mixed	110	58	52	CRC_52	WGS	IndustrializedUrban	USA
+HallAB_2017	Mixed	259	74	185	IBD_GutInflammation_185	WGS	IndustrializedUrban	USA
+AG	Mixed	3812	2404	1408	IBS_382;Lung_Disease_348;CDI_39;IBD_GutInflammation_112;other_512;T2D_70;CVD_89;SIBO_101;NAFLD_FLD_54;Autism_24	16s	IndustrializedUrban	USA;GBR
+KarlssonFH_2013	Mixed	145	43	102	Prediabetes_49;T2D_53	WGS	IndustrializedUrban	SWE;DEU;FRA;NOR;DNK;SVK;HUN;EST;FIN;ISL
+YachidaS_2019	Mixed	616	246	370	CRC_258;Polyps_72;other_40	WGS	IndustrializedUrban	JPN
+JieZ_2017	Mixed	385	171	214	CVD_214	WGS	IndustrializedUrban	CHN
+Kedia_et_al	Mixed	158	85	73	IBD_GutInflammation_73	16s	UrbanRuralMixed	IND
+FengQ_2015	Mixed	154	16	138	CRC_46;NAFLD_FLD_80;Hypertension_89;Polyps_47;T2D_24	WGS	IndustrializedUrban	AUT
+YuJ_2015	Mixed	128	38	90	CRC_74;T2D_45	WGS	IndustrializedUrban	CHN
+ZhuF_2020	Mixed	154	78	76	Schizophrenia_76	WGS	IndustrializedUrban	CHN
+YeZ_2018	Mixed	65	45	20	Behcets_Disease_20	WGS	IndustrializedUrban	CHN
+XieH_2016	Mixed	250	169	81	T2D_9;Migraine_49;Asthma_36	WGS	IndustrializedUrban	GBR
