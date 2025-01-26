@@ -1,6 +1,8 @@
 library("reshape2")
 
-load("G:\\My Drive\\Lab\\Projects\\CoreFinder\\Manuscript\\Analysis_Data\\ThresholdDetermination.RData")
+load("G:\\My Drive\\Lab\\Projects\\CoreFinder\\Manuscript\\Analysis_Data\\For_Upload\\ThresholdDetermination\\controlSpProfileAll.RData")
+load("G:\\My Drive\\Lab\\Projects\\CoreFinder\\Manuscript\\Analysis_Data\\For_Upload\\ThresholdDetermination\\controlSpProfile.RData")
+load("G:\\My Drive\\Lab\\Projects\\CoreFinder\\Manuscript\\Analysis_Data\\For_Upload\\ThresholdDetermination\\3R.RData")
 
 source("G:\\My Drive\\Lab\\Projects\\CoreFinder\\Manuscript\\Analysis_Data\\code_library.r")
 
